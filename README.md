@@ -1,4 +1,11 @@
-[FastClick](https://www.fastclick.dev) ![CI](https://github.com/tbarbette/fastclick/workflows/C/C++%20CI/badge.svg)
+!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+This repository is now useless ! Everything has been moved to FastClick's mainline ! Use https://github.com/tbarbette/fastclick !
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[FastClick](https://www.fastclick.dev) !
 =========
 FastClick is an extended version of the Click Modular Router featuring an
 improved Netmap support and a new DPDK support. It was the result of
