@@ -1,12 +1,13 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!
-
+DEPRECATED
+==========
 
 This repository is now useless ! Everything has been moved to FastClick's mainline ! Use https://github.com/tbarbette/fastclick !
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [FastClick](https://www.fastclick.dev) !
-=========
+-----------
 FastClick is an extended version of the Click Modular Router featuring an
 improved Netmap support and a new DPDK support. It was the result of
 our ANCS paper available at http://hdl.handle.net/2268/181954, but received
